@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test création d un compte cas non passant email utilisé</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0edee839-df82-46e7-810b-f0c032a24f85</testCaseGuid>
+</TestCaseEntity>
